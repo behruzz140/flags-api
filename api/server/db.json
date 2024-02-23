@@ -1,0 +1,86 @@
+{
+  "flags": [
+    {
+      "id": 1,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/germany.png?raw=true",
+      "name": "Germany",
+      "population": "Population: 81,770,900",
+      "region": "Region: Europe",
+      "capital": "Capital: Berlin"
+    },
+    {
+      "id": 2,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/amerika.png?raw=true",
+      "name": "United States of America",
+      "population": "Population: 323,947,000",
+      "region": "Region: Americas",
+      "capital": "Capital: Washington, D.C."
+    },
+    {
+      "id": 3,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/brazilya.png?raw=true",
+      "name": "Brazil",
+      "population": "Population: 206,135,893",
+      "region": "Region: Americas",
+      "capital": "Capital: Brasília"
+    },
+    {
+      "id": 4,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/Iceland.png?raw=true",
+      "name": "Iceland",
+      "population": "Population: 334,300",
+      "region": "Region: Europe",
+      "capital": "Capital: Reykjavík"
+    },
+    {
+      "id": 5,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/Afghanistan.png?raw=true",
+      "name": "Afghanistan",
+      "population": "Population: 27,657,145",
+      "region": "Region: Asia",
+      "capital": "Capital: Kabul"
+    },
+    {
+      "id": 6,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/%C3%85land%20Islands.png?raw=true",
+      "name": "Åland Islands",
+      "population": "Population: 28,875",
+      "region": "Region: Europe",
+      "capital": "Capital: Mariehamn"
+    },
+    {
+      "id": 7,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/Albania.png?raw=true",
+      "name": "Albania",
+      "population": "Population: 2,886,026",
+      "region": "Region: Europe",
+      "capital": "Capital: Tirana"
+    },
+    {
+      "id": 8,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/Algeria.png?raw=true",
+      "name": "Algeria",
+      "population": "Population: 40,400,000",
+      "region": "Region: Africa",
+      "capital": "Capital: Algiers"
+    }
+  ],
+
+  "flags1": [
+    {
+      "id":9,
+      "img": "https://github.com/Azamkhan13/flags.img/blob/master/germany.png?raw=true",
+      "name": "Belgium",
+      "NativeName": "Native Name: België",
+      "Population": " België Population: 11,319,511",
+      "Region": "Region: Europe",
+      "Subregion": " Sub Region: Western Europe",
+      "Capital": "Capital: Brussels",
+      "TopLevelDomain": "Top Level Domain: .be ",
+      "Currencies": "Currencies: Euro",
+      "Languages": "Languages: Dutch, French, German"
+    }
+    
+  ]
+
+}
